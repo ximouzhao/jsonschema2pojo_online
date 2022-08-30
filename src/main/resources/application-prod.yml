@@ -1,0 +1,4 @@
+server:
+  port: 8080
+project:
+  tempdir: "/www/wwwroot/json2pojo/temp"

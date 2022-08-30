@@ -1,0 +1,4 @@
+server:
+  port: 8080
+project:
+  tempdir: "f:/json2pojo/temp"
